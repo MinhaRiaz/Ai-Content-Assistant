@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 from groq import Groq
 
@@ -191,4 +191,4 @@ if submit_button:
                 st.error(
                     f"Error generating content: {e}"
                 )
-```
+
